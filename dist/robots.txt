@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://file-format-atlas.netlify.app/sitemap.xml
